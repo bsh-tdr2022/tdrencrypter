@@ -7,7 +7,7 @@ Requisits per a executar:
 - Llibreria PySimpleGUI (per a instal·lar, introduir a la consola de comandaments "pip install PySimpleGUI")
 
 Instruccions:
-- Botó d'encriptament: Introduir al primer quadre de text la frase i en el segon la clau (espais que vols moure cada lletra). Després prémer el botó.
+- Botó d'encriptament: Introduir al primer quadre de text la frase i en el segon la clau (espais que es vol moure cada lletra). Després prémer el botó.
 - Botó de desencriptament: Introduir al primer quadre de text la frase i prémer el botó.
 - Botó d'enviament: Seguir instruccions del primer botó, però s'ha de prémer el botó d'encriptar i enviar. En la següent pantalla, introduir una adreça de correu vàlida per a l'enviament* i una altra a la que enviar el missatge.
 
